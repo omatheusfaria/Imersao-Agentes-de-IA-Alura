@@ -46,9 +46,9 @@ Cada aula representa um passo na evolução do nosso agente de IA.
 
 ## 👤 Autor
 
-- **[Seu Nome]**
-- **LinkedIn:** [seu-linkedin]
-- **GitHub:** [seu-github]
+- **Matheus Faria**
+- **LinkedIn:** www.linkedin.com/in/matheusfaria-dev
+- **GitHub:** [[Matheus Faria]](https://github.com/omatheusfaria)
 
 ---
 *Projeto desenvolvido com base no conteúdo da Imersão IA da Alura e Google.*
